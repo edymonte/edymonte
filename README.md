@@ -46,7 +46,7 @@ Automated deployment using GitOps principles.
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: [(coloque seu link aqui)](https://www.linkedin.com/in/edilson-monteiro-154a0910a/)
+- 💼 LinkedIn: [(https://www.linkedin.com/in/edilson-monteiro-154a0910a/)]
 - 📧 Email: (opcional)
 
 ---
